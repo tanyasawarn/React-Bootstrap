@@ -1,0 +1,27 @@
+
+img {
+    max-width: 100%;
+  }
+  
+
+  .container {
+    margin-top: 20px;
+    padding: 0 15px;
+  }
+  
+  .row {
+    margin: 0 -15px;
+    padding: 0 15px;
+  }
+
+  .col {
+    width: 50%;
+    float: left;
+    padding: 0 15px;
+    margin-bottom: 20px;
+  }
+
+  .button {
+    margin-right: 10px;
+  }
+  

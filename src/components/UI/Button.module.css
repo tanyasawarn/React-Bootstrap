@@ -1,0 +1,11 @@
+.button {
+   margin-right: .3rem;
+   border-radius: 1rem;
+   box-shadow: 1rem;
+  }
+  
+
+  button:hover {
+    background-color: teal;
+    color: black;
+  }
